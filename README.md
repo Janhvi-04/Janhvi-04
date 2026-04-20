@@ -1,4 +1,4 @@
-## Hi there 👋, I,am Janhvi Petramwar
+## Hi there 👋, I am Janhvi Petramwar
 
 Full-Stack Developer | Problem Solver | CSE student
 
@@ -22,5 +22,5 @@ Full-Stack Developer | Problem Solver | CSE student
 - 📢 Open Source Contributions
 - 🚧 Or even building the next billion-dollar idea with you!
 
-🌟 Quote I Live By
+🌟 I believe in
 “Keep it simple, make it work.”
