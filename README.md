@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi there 👋, I,am Janhvi Petramwar
 
-<!--
-**Janhvi-04/Janhvi-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer | Problem Solver | CSE student
 
-Here are some ideas to get you started:
+💻 What I Do
+- Frontend Development: HTML, CSS, JavaScript (ES6+), React.js, Tailwind CSS 
+- Backend Development: Node.js, Express
+- Database Expertise: MongoDB, MySQL
+- Testing & Deployment: Postman, Git, GitHub, Vercel
+- Other Skills: RESTful API Design, OOP, Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+🌟 Fun Facts
+- Love building scalable apps with clean UI & robust backends  
+- Enjoy debugging complex logic and explaining DSA with analogies  
+- Believe in learning by building, not just watching tutorials  
+- Always exploring new tools and frameworks to stay ahead
+
+🤝 Open for Opportunities
+- 👨‍💻 Freelance Projects
+- 🌍 Tech Collaborations
+- 🧠 Internships (Remote/On-site)
+- 📢 Open Source Contributions
+- 🚧 Or even building the next billion-dollar idea with you!
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+🌟 Quote I Live By
+“Keep it simple, make it work.”
